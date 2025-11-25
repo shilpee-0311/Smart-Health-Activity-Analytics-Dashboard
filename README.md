@@ -1,2 +1,3 @@
 # Smart-Health-Activity-Analytics-Dashboard
-A complete end-to-end analytics system that analyzes daily health activity such as steps, heart rate, sleep duration, calories burned, and real-time emotion detection using OpenCV.   The project combines **Python analytics**, **Power BI dashboards**, and **AI-driven emotion recognition** in a single system.
+A complete end-to-end Health Activity Analytics System that integrates Python data processing, Power BI dashboards, and AI-based emotion detection using OpenCV.
+This project provides deep insights into daily wellness metrics through automated ETL pipelines, interactive dashboards, and real-time emotion analysis
