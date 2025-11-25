@@ -22,36 +22,6 @@ This project provides deep insights into daily wellness metrics through automate
   <img src="https://img.shields.io/badge/AI-OpenCV-5B2C6F?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Dashboard-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
-<h2>🛠️ Tech Stack </h2> 
-
-Here are the major tools and technologies used in this project:
-
- **🔹 Programming & Analytics**
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-
-**🔹 Computer Vision**
-- **OpenCV (Real-time Emotion Detection)**
-
-### **🔹 Business Intelligence**
-- **Power BI** (Interactive Dashboards)
-
-### **🔹 Reporting & Automation**
-- **Excel**  
-  - Pivot Tables  
-  - Conditional Formatting  
-  - Automated Summary Sheets  
-
-### **🔹 Data Handling**
-- CSV / Excel input files  
-- ETL Transformations  
-
-
-
----
 
 ## 🛠️ Tech Used (Basic Overview)
 
